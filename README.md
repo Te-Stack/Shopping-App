@@ -4,9 +4,6 @@
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
-  <a href="https://twitter.com/Quincyoghenex" target="_blank">
-    <img alt="Twitter: Quincyoghenex" src="https://img.shields.io/twitter/follow/simply_rammy.svg?style=social" />
-  </a>
 </p>
 
 > A Shopping App that Uses JWT to authenticate Users and onky allow authenticated Users to Remove and Add items of their Shopping List .Created with React, Redux for State Management and Express and  Node.js For the Backend Which is connected to MongoDB for Data Storage 
