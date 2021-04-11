@@ -5,7 +5,6 @@ import "../index.css"
 import {connect } from "react-redux"
 import {getItems,deleteItems} from "../actions/itemActions"
 import PropTypes from "prop-types"
-// const {v4 : uuidv4} = require("uuid")
 
 
 class ShoppingList extends Component {

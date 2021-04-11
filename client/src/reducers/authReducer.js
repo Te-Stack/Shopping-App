@@ -4,7 +4,7 @@ import {
     AUTH_ERROR,
     LOGIN_SUCCESS,
     LOGIN_FAIL,
-    LOGOUT_SUCCESS,
+    LOGOUT_SUCCESS, 
     REGISTER_FAIL,
     REGISTER_SUCCESS
 }
@@ -17,7 +17,7 @@ const initialState = {
     user:null
 }
 
-export default function(state=initialState,action){
+export default function foo(state=initialState,action){
     switch(action.type){
         case USER_LOADING:
             return {
